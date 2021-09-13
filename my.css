@@ -23,6 +23,7 @@ h1 {
   margin: 20px;
   background: white;
   align-items: center;
+  justify-content: center;
 }
 
 img {

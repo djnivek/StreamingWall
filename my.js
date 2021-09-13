@@ -6,5 +6,5 @@ node.addEventListener("keyup", function(event) {
 });
 
 function goFullScreenYoutube() {
-    location.href='https://www.youtube.com/redirect?q=http://127.0.0.1:3000/';
+    location.href='https://www.youtube.com/redirect?q=https://djnivek.github.io/StreamingWall/index.html/';
 }
